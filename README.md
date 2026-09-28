@@ -1,6 +1,6 @@
 # Implementation-of-Logistic-Regression-Using-Gradient-Descent
-## NAME: PRANAV K
-## REG NO: 212224040240
+## NAME: Dixun Devotta S
+## REG NO: 212224060073
 
 
 ## AIM:
